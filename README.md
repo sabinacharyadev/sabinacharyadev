@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabinacharyadev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinacharyadev&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabinacharyadev&theme=github-dark-blue" />
+</p>
+
 **sabinacharyadev/sabinacharyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
