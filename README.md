@@ -34,7 +34,10 @@
  <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5qYjY0cTRyc210bGRteXQ3ZDBwcncyN2h1cWppeG1nZnJ0MnU1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width='250' />
 </div>
 
-<!-- Git Status -->
+ <!-- Git Stats -->
+
+### 🔥 My Stats :
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabinacharyadev&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinacharyadev&layout=compact&theme=radical" height="150" />
@@ -44,8 +47,11 @@
   <img src="https://streak-stats.demolab.com?user=sabinacharyadev&theme=github-dark-blue" />
 </p>
 
-<!-- Skills Badges -->
-<div>
+ <!-- Skills Badges -->
+
+### 🛠️ &nbsp; &nbsp;Languages and Tools :
+
+<div align='center' style='background:white;padding: 1rem;display:flex; justify-content:space-around;margin-bottom:2rem'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
