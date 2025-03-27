@@ -36,6 +36,8 @@
 
  <!-- Git Stats -->
 
+---
+
 ### 🔥 My Stats :
 
 <p align="center">
@@ -49,43 +51,18 @@
 
  <!-- Skills Badges -->
 
+---
+
 ### 🛠️ &nbsp; &nbsp;Languages and Tools :
 
-<div
-  align="center"
-  style="background:white;padding:1rem;display:flex; justify-content:space-around;margin-bottom:2rem"
->
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-    title="React"
-    alt="React"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-    title="Mongodb"
-    alt="Mongodb"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
-    title="Express"
-    alt="Express"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-    title="Nodejs"
-    alt="Nodejs"
-    width="40"
-    height="40"
-  />&nbsp;
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,mongodb,html,css,bootstrap,git,vscode" />
+</p>
 
 <!-- Footer Contact me -->
+
+---
+
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:sabinacharya444@gmail.com">
